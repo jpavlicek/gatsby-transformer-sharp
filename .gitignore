@@ -1,4 +1,3 @@
-/src
 # /*.js
 # !index.js
 # yarn.lock
